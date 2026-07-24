@@ -1,4 +1,17 @@
-[
+/* ==========================================================================
+   FOODWISE — BANCO DE DADOS LOCAL DO CARDÁPIO (FALLBACK)
+   150 pratos, 25 por categoria: saladas, pratos-quentes, sobremesas,
+   bebidas, fitness e fast-food.
+   Este arquivo garante que o site funcione mesmo sem conexão com o
+   banco de dados remoto hospedado no GitHub (ver README-BANCO-DE-DADOS.md).
+
+   IMPORTANTE: os dados são atribuídos diretamente a "window.DADOS_CARDAPIO_LOCAL"
+   (em vez de "const DADOS_CARDAPIO_LOCAL = ...") para garantir que fiquem
+   acessíveis de forma 100% confiável a partir do script.js, independente
+   do navegador ou do ambiente onde a página for aberta.
+   ========================================================================== */
+
+window.DADOS_CARDAPIO_LOCAL = [
   {
     "id": 1,
     "nome": "Salada Green Bowl",
@@ -1649,4 +1662,4 @@
     "descricao": "Salsicha, molho especial, milho e batata palha.",
     "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
   }
-]
+];
