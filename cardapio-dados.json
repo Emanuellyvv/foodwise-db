@@ -85,7 +85,7 @@
     "avaliacao": 4.5,
     "selo": "Alta proteína",
     "descricao": "Espinafre, frango desfiado, cenoura e molho tahine.",
-    "imagem": "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/bowl-espinafreefrango.jpg"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "avaliacao": 4.7,
     "selo": "Vegetariano",
     "descricao": "Maçã, aipo, nozes e iogurte natural.",
-    "imagem": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/salada-waldorf.jpg"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "avaliacao": 4.5,
     "selo": "Vegano",
     "descricao": "Lentilha, cenoura, salsinha e limão siciliano.",
-    "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/salada-lentilha.jpg"
   },
   {
     "id": 11,
@@ -118,7 +118,7 @@
     "avaliacao": 4.6,
     "selo": "Vegetariano",
     "descricao": "Beterraba assada, queijo de cabra e nozes caramelizadas.",
-    "imagem": "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/salada-beterrabaequeijocabra.jpg"
   },
   {
     "id": 12,
@@ -129,7 +129,7 @@
     "avaliacao": 4.8,
     "selo": "Vegano",
     "descricao": "Alface, manga, castanha de caju e molho cítrico.",
-    "imagem": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/salada-tropicalmanga.jpg"
   },
   {
     "id": 13,
