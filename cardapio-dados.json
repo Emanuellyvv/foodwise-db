@@ -1383,7 +1383,7 @@
     "avaliacao": 4.5,
     "selo": "Best seller",
     "descricao": "Pão brioche, blend bovino, queijo, alface e tomate.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/hamb.classico.jpg"
   },
   {
     "id": 127,
@@ -1394,7 +1394,7 @@
     "avaliacao": 4.3,
     "selo": "Best seller",
     "descricao": "Dois blends bovinos, queijo cheddar e molho especial.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/chess-duplo.jpg"
   },
   {
     "id": 128,
@@ -1405,7 +1405,7 @@
     "avaliacao": 4.9,
     "selo": "Best seller",
     "descricao": "Blend bovino, bacon crocante e queijo prato.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/hamb-bacon.jpg"
   },
   {
     "id": 129,
@@ -1416,7 +1416,7 @@
     "avaliacao": 4.8,
     "selo": "Vegano",
     "descricao": "Blend de grão-de-bico e cogumelos com molho especial.",
-    "imagem": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/hamb-veg.jpg"
   },
   {
     "id": 130,
@@ -1427,7 +1427,7 @@
     "avaliacao": 4.8,
     "selo": "Clássico",
     "descricao": "Pão macio, salsicha, molhos e batata palha.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/hot-completo.jpg"
   },
   {
     "id": 131,
@@ -1438,7 +1438,7 @@
     "avaliacao": 4.5,
     "selo": "Acompanhamento",
     "descricao": "Porção de batata frita crocante com sal na medida.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/bat-fri-crocante.jpg"
   },
   {
     "id": 132,
@@ -1449,7 +1449,7 @@
     "avaliacao": 4.3,
     "selo": "Clássico",
     "descricao": "Nuggets crocantes de frango com molho barbecue.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/nug-frango.jpg"
   },
   {
     "id": 133,
@@ -1460,7 +1460,7 @@
     "avaliacao": 4.8,
     "selo": "Clássico",
     "descricao": "Fatia generosa de pizza de calabresa com mussarela.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/fatia-calab.jpg"
   },
   {
     "id": 134,
@@ -1471,7 +1471,7 @@
     "avaliacao": 4.9,
     "selo": "Best seller",
     "descricao": "Wrap crocante com frango empanado e maionese temperada.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/rap-frango.jpg"
   },
   {
     "id": 135,
@@ -1482,7 +1482,7 @@
     "avaliacao": 4.4,
     "selo": "Acompanhamento",
     "descricao": "Anéis de cebola empanados e crocantes.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/onion-rings.jpg"
   },
   {
     "id": 136,
@@ -1493,7 +1493,7 @@
     "avaliacao": 4.6,
     "selo": "Clássico",
     "descricao": "Milk-shake cremoso de chocolate com chantilly.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/shake-chocolate.jpg"
   },
   {
     "id": 137,
@@ -1504,7 +1504,7 @@
     "avaliacao": 4.3,
     "selo": "Clássico",
     "descricao": "Coxinha tradicional de frango com massa crocante.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/coxinha-frango.jpg"
   },
   {
     "id": 138,
@@ -1515,7 +1515,7 @@
     "avaliacao": 4.8,
     "selo": "Clássico",
     "descricao": "Pastel crocante recheado com carne moída temperada.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/pastel-carne.jpg"
   },
   {
     "id": 139,
