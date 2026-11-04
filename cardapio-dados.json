@@ -272,7 +272,7 @@
     "avaliacao": 5.0,
     "selo": "Vegetariano",
     "descricao": "Melancia, queijo feta, hortelã e rúcula.",
-    "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/salad-frecaverao.jpg"
   },
   {
     "id": 26,
@@ -558,7 +558,7 @@
     "avaliacao": 4.6,
     "selo": "Sem açúcar",
     "descricao": "Mousse cremoso de cacau 70%, adoçado naturalmente com tâmaras.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mousse-cacau.jpg"
   },
   {
     "id": 52,
@@ -569,7 +569,7 @@
     "avaliacao": 4.5,
     "selo": "Alta proteína",
     "descricao": "Cheesecake fit com base de castanhas e cobertura de frutas vermelhas.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/chesscake-frtverm.jpg"
   },
   {
     "id": 53,
@@ -602,7 +602,7 @@
     "avaliacao": 4.8,
     "selo": "Sem açúcar",
     "descricao": "Bolo de cenoura integral com cobertura de chocolate 70%.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/bolo-cenoura.jpg"
   },
   {
     "id": 56,
@@ -738,7 +738,7 @@
   },
   {
     "id": 68,
-    "nome": "Musse de Manga",
+    "nome": "Mousse de Manga",
     "categoria": "sobremesas",
     "preco": 12.9,
     "calorias": 160,
@@ -1526,7 +1526,7 @@
     "avaliacao": 4.8,
     "selo": "Clássico",
     "descricao": "Esfirra tradicional recheada com carne temperada.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/esfirra-carne.jpg"
   },
   {
     "id": 140,
@@ -1537,7 +1537,7 @@
     "avaliacao": 4.4,
     "selo": "Leve",
     "descricao": "Pão integral, frango desfiado e maionese light.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/sand-frango.jpg"
   },
   {
     "id": 141,
@@ -1548,7 +1548,7 @@
     "avaliacao": 4.6,
     "selo": "Clássico",
     "descricao": "Tortilha recheada com carne, feijão, arroz e queijo.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/burrito-carne.jpg"
   },
   {
     "id": 142,
@@ -1559,7 +1559,7 @@
     "avaliacao": 4.6,
     "selo": "Clássico",
     "descricao": "Taco crocante com carne, alface, tomate e queijo.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/tacos-mexicanos.jpg"
   },
   {
     "id": 143,
@@ -1570,7 +1570,7 @@
     "avaliacao": 4.5,
     "selo": "Acompanhamento",
     "descricao": "Nachos crocantes com queijo derretido e guacamole.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/nachos-queijo.jpg"
   },
   {
     "id": 144,
@@ -1581,7 +1581,7 @@
     "avaliacao": 4.8,
     "selo": "Best seller",
     "descricao": "Filé de frango empanado, queijo e maionese temperada.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/hamb-frangocroc.jpg"
   },
   {
     "id": 145,
@@ -1592,7 +1592,7 @@
     "avaliacao": 4.6,
     "selo": "Acompanhamento",
     "descricao": "Batata rústica assada com páprica e ervas.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/batata-rust-temp.jpg"
   },
   {
     "id": 146,
@@ -1603,7 +1603,7 @@
     "avaliacao": 4.4,
     "selo": "Clássico",
     "descricao": "Pizza individual de mussarela com borda tradicional.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/broto-muss.jpg"
   },
   {
     "id": 147,
@@ -1614,7 +1614,7 @@
     "avaliacao": 4.6,
     "selo": "Clássico",
     "descricao": "Pão francês, pernil assado e vinagrete.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/sand-pernil.jpg"
   },
   {
     "id": 148,
@@ -1625,7 +1625,7 @@
     "avaliacao": 4.7,
     "selo": "Best seller",
     "descricao": "Nuggets de frango acompanhados de batata frita.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/nug-fritas-combo.jpg"
   },
   {
     "id": 149,
@@ -1636,7 +1636,7 @@
     "avaliacao": 4.4,
     "selo": "Clássico",
     "descricao": "Milk-shake cremoso de morango natural.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/milk-morango.jpg"
   },
   {
     "id": 150,
@@ -1647,6 +1647,6 @@
     "avaliacao": 4.5,
     "selo": "Clássico",
     "descricao": "Salsicha, molho especial, milho e batata palha.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/hotdog-especial.jpg"
   }
 ]
