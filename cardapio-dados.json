@@ -591,7 +591,7 @@
     "avaliacao": 5.0,
     "selo": "Vegano",
     "descricao": "Pudim de chia com leite de coco e mel.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/pudim.jpg"
   },
   {
     "id": 55,
@@ -613,7 +613,7 @@
     "avaliacao": 4.8,
     "selo": "Vegano",
     "descricao": "Picolé natural de frutas vermelhas sem adição de açúcar.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/picole-frtverm.jpg"
   },
   {
     "id": 57,
@@ -624,7 +624,7 @@
     "avaliacao": 4.5,
     "selo": "Sem açúcar",
     "descricao": "Brigadeiro proteico de coco sem açúcar refinado.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/brigadeiro-coco.jpg"
   },
   {
     "id": 58,
@@ -635,7 +635,7 @@
     "avaliacao": 4.8,
     "selo": "Vegetariano",
     "descricao": "Torta de limão com base de castanhas e merengue leve.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/torta-limao.jpg"
   },
   {
     "id": 59,
@@ -646,7 +646,7 @@
     "avaliacao": 4.5,
     "selo": "Alta proteína",
     "descricao": "Camadas de iogurte natural, granola e frutas frescas.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/parfait.jpg"
   },
   {
     "id": 60,
@@ -657,7 +657,7 @@
     "avaliacao": 4.6,
     "selo": "Vegano",
     "descricao": "Banana grelhada com canela e um fio de mel.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/banana-caramel.jpg"
   },
   {
     "id": 61,
@@ -679,7 +679,7 @@
     "avaliacao": 4.8,
     "selo": "Sem açúcar",
     "descricao": "Cookie de aveia e banana, sem açúcar refinado.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/cookie-fit.jpg"
   },
   {
     "id": 63,
@@ -690,7 +690,7 @@
     "avaliacao": 4.7,
     "selo": "Sem açúcar",
     "descricao": "Barra de cereal com mel, aveia e frutas secas.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/barra-cereal.jpg"
   },
   {
     "id": 64,
@@ -734,7 +734,7 @@
     "avaliacao": 4.5,
     "selo": "Vegetariano",
     "descricao": "Torta de maçã com massa integral e canela.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/torta-maca.jpg"
   },
   {
     "id": 68,
@@ -767,7 +767,7 @@
     "avaliacao": 4.6,
     "selo": "Sem açúcar",
     "descricao": "Pavê fit de chocolate com biscoito integral.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/pave-choco.jpg"
   },
   {
     "id": 71,
@@ -800,7 +800,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Torta leve de ricota com cobertura de frutas frescas.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/torta-ricotafruta.jpg"
   },
   {
     "id": 74,
@@ -811,18 +811,18 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Waffle integral proteico com frutas frescas e mel.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/waffle-proteico.jpg"
   },
   {
     "id": 75,
-    "nome": "Musse de Maracujá com Chia",
+    "nome": "Mousse de Maracujá com Chia",
     "categoria": "sobremesas",
     "preco": 13.9,
     "calorias": 180,
     "avaliacao": 4.8,
     "selo": "Vegano",
     "descricao": "Mousse de maracujá com sementes de chia.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mousse-maracechia.jpg"
   },
   {
     "id": 76,
