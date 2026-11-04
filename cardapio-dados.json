@@ -624,7 +624,7 @@
     "avaliacao": 4.5,
     "selo": "Sem açúcar",
     "descricao": "Brigadeiro proteico de coco sem açúcar refinado.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/brigadeiro-coco.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/a.jpg"
   },
   {
     "id": 58,
@@ -668,7 +668,7 @@
     "avaliacao": 5.0,
     "selo": "Vegano",
     "descricao": "Trufa artesanal de cacau com castanha-do-pará.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/trufa-choco.jpg"
   },
   {
     "id": 62,
