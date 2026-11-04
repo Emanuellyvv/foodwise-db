@@ -283,7 +283,7 @@
     "avaliacao": 4.7,
     "selo": "Alta proteína",
     "descricao": "Peito de frango grelhado, brócolis, cenoura e batata-doce assada.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/frangogrelhado-leg.jpg"
   },
   {
     "id": 27,
@@ -305,7 +305,7 @@
     "avaliacao": 4.5,
     "selo": "Vegano",
     "descricao": "Tofu grelhado, arroz integral, edamame e molho shoyu light.",
-    "imagem": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/tofu-arrozint.jpg"
   },
   {
     "id": 29,
@@ -316,7 +316,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Tilápia grelhada com legumes salteados e arroz integral.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/tilapiagre-leg.jpg"
   },
   {
     "id": 30,
@@ -327,7 +327,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Strogonoff light de frango com arroz integral e batata palha assada.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/strogonoff-fit.jpg"
   },
   {
     "id": 31,
@@ -338,7 +338,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Patinho assado, batata-doce e legumes grelhados.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/carneforno-batdoce.jpg"
   },
   {
     "id": 32,
@@ -382,7 +382,7 @@
     "avaliacao": 4.7,
     "selo": "Low carb",
     "descricao": "Filé de peixe branco ao molho de ervas com purê de batata-doce.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/peixeaomolho-ervas.jpg"
   },
   {
     "id": 36,
@@ -437,7 +437,7 @@
     "avaliacao": 4.8,
     "selo": "Low carb",
     "descricao": "Moqueca de peixe branco com leite de coco light e legumes.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/moquecapeixe-fit.jpg"
   },
   {
     "id": 41,
@@ -481,7 +481,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Frango empanado com aveia, molho de tomate e queijo light.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/frangoparm-fit.jpg"
   },
   {
     "id": 45,
@@ -503,7 +503,7 @@
     "avaliacao": 4.6,
     "selo": "Low carb",
     "descricao": "Filé de peixe empanado com aveia, assado, e legumes.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/peixeemp-fit.jpg"
   },
   {
     "id": 47,
@@ -525,7 +525,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Yakisoba de macarrão integral com frango e legumes.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/yak-leg.jpg"
   },
   {
     "id": 49,
@@ -536,7 +536,7 @@
     "avaliacao": 4.8,
     "selo": "Vegano",
     "descricao": "Legumes assados em camadas com molho de tomate e ervas.",
-    "imagem": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/rat-vegano.jpg"
   },
   {
     "id": 50,
@@ -756,7 +756,7 @@
     "avaliacao": 4.6,
     "selo": "Sem açúcar",
     "descricao": "Bolo úmido de banana com aveia e canela.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/bolo-bananaeaveia.jpg"
   },
   {
     "id": 70,
@@ -778,7 +778,7 @@
     "avaliacao": 4.5,
     "selo": "Vegano",
     "descricao": "Doce de abóbora cremoso com leite de coco.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/doce-aboraracoco.jpg"
   },
   {
     "id": 72,
