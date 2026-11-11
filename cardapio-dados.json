@@ -526,6 +526,7 @@
     "selo": "Alta proteína",
     "descricao": "Yakisoba de macarrão integral com frango e legumes.",
     "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/yaki-leg.jpg"
+  },
   {
     "id": 49,
     "nome": "Ratatouille Vegano",
@@ -536,6 +537,7 @@
     "selo": "Vegano",
     "descricao": "Legumes assados em camadas com molho de tomate e ervas.",
     "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/rat-vegano.jpg"
+  },
   {
     "id": 50,
     "nome": "Bacalhau ao Forno Light",
