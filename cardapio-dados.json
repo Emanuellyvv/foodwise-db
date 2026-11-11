@@ -360,7 +360,7 @@
     "avaliacao": 4.8,
     "selo": "Low carb",
     "descricao": "Camarões salteados com alho, ervas e brócolis.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/camarao-alhoeoleo.jpg"
   },
   {
     "id": 34,
@@ -371,7 +371,7 @@
     "avaliacao": 5.0,
     "selo": "Vegano",
     "descricao": "Berinjela assada recheada com quinoa e legumes.",
-    "imagem": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/beringela-recheada.jpg"
   },
   {
     "id": 35,
@@ -404,7 +404,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Quibe assado de carne magra com molho de iogurte.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/kibe-assado.jpg"
   },
   {
     "id": 38,
@@ -448,7 +448,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Escondidinho de frango desfiado com purê de batata-doce.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/escon-frango-fit.jpg"
   },
   {
     "id": 42,
@@ -470,7 +470,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Frango grelhado ao limão siciliano com aspargos.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/frango-limaosici.jpg"
   },
   {
     "id": 44,
@@ -492,7 +492,7 @@
     "avaliacao": 4.5,
     "selo": "Alta proteína",
     "descricao": "Almôndegas ao molho de tomate com arroz integral.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/almondegas-fit.jpg"
   },
   {
     "id": 46,
@@ -514,7 +514,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Panqueca integral recheada com frango e ricota.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/panq-frango.jpg"
   },
   {
     "id": 48,
@@ -526,7 +526,6 @@
     "selo": "Alta proteína",
     "descricao": "Yakisoba de macarrão integral com frango e legumes.",
     "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/yaki-leg.jpg"
-  },
   {
     "id": 49,
     "nome": "Ratatouille Vegano",
@@ -537,7 +536,6 @@
     "selo": "Vegano",
     "descricao": "Legumes assados em camadas com molho de tomate e ervas.",
     "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/rat-vegano.jpg"
-  },
   {
     "id": 50,
     "nome": "Bacalhau ao Forno Light",
@@ -547,7 +545,7 @@
     "avaliacao": 4.7,
     "selo": "Low carb",
     "descricao": "Bacalhau assado com batatas e azeite de ervas.",
-    "imagem": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/bacalhau-assado.jpg"
   },
   {
     "id": 51,
@@ -580,7 +578,7 @@
     "avaliacao": 4.6,
     "selo": "Sem açúcar",
     "descricao": "Brownie de chocolate 70% com farinha de aveia.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/brownie.jpg"
   },
   {
     "id": 54,
@@ -723,7 +721,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Cheesecake leve com calda natural de maracujá.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": ""https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/chess-maracuja.jpg""
   },
   {
     "id": 67,
@@ -789,7 +787,7 @@
     "avaliacao": 5.0,
     "selo": "Sem açúcar",
     "descricao": "Beijinho de coco sem açúcar refinado.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/beijinho-fit.jpg"
   },
   {
     "id": 73,
@@ -1141,7 +1139,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Panqueca de aveia, banana e whey protein.",
-    "imagem": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/panqueca-banana.jpg"
   },
   {
     "id": 105,
@@ -1229,7 +1227,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Wrap integral com frango, alface e iogurte.",
-    "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=600&auto=format&fit=crop"
+    "imagem": ""https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/rap-frango.jpg""
   },
   {
     "id": 113,
@@ -1273,7 +1271,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Peito de frango, quinoa, brócolis e cenoura.",
-    "imagem": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/frangogre-quinoa-leg.jpg"
   },
   {
     "id": 117,
@@ -1284,7 +1282,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Panqueca de claras de ovo com frutas frescas.",
-    "imagem": "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?q=80&w=600&auto=format&fit=crop"
+    "imagem":"https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/panq-frutas.jpg"
   },
   {
     "id": 118,
@@ -1295,7 +1293,7 @@
     "avaliacao": 4.8,
     "selo": "Vegano",
     "descricao": "Grão-de-bico, tofu, quinoa e legumes.",
-    "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=600&auto=format&fit=crop"
+    "imagem": ""https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/bowl-vegprot.jpg""
   },
   {
     "id": 119,
@@ -1306,7 +1304,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Claras de ovo com abobrinha, tomate e cebola.",
-    "imagem": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/omelete-leg.jpg"
   },
   {
     "id": 120,
@@ -1317,7 +1315,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Frango desfiado, cenoura, maçã e iogurte.",
-    "imagem": "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/salpi-fit.jpg"
   },
   {
     "id": 121,
@@ -1328,7 +1326,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Camarão grelhado, arroz integral e brócolis.",
-    "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/bowl-camarao-arrozint.jpg"
   },
   {
     "id": 122,
@@ -1339,7 +1337,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Crepioca de tapioca e ovo recheada com frango.",
-    "imagem": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?q=80&w=600&auto=format&fit=crop"
+    "imagem": ""https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/crepioca-prot.jpg""
   },
   {
     "id": 123,
@@ -1350,7 +1348,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Frutas frescas com whey protein e canela.",
-    "imagem": "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?q=80&w=600&auto=format&fit=crop"
+    "imagem": ""https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mixfru-whey.jpg""
   },
   {
     "id": 124,
@@ -1372,7 +1370,7 @@
     "avaliacao": 4.5,
     "selo": "Alta proteína",
     "descricao": "Espetinho de frango grelhado com legumes.",
-    "imagem": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/espeto-frango.jpg"
   },
   {
     "id": 126,
