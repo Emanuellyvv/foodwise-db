@@ -536,7 +536,7 @@
     "avaliacao": 4.8,
     "selo": "Vegano",
     "descricao": "Legumes assados em camadas com molho de tomate e ervas.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/rat-vegano.jpg"
+    "imagem":"https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/rat-vegano.jpg"
   },
   {
     "id": 50,
@@ -723,7 +723,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Cheesecake leve com calda natural de maracujá.",
-    "imagem": ""https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/chess-maracuja.jpg""
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/chess-maracuja.jpg"
   },
   {
     "id": 67,
@@ -1229,7 +1229,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Wrap integral com frango, alface e iogurte.",
-    "imagem": ""https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/rap-frango.jpg""
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/rap-frango.jpg"
   },
   {
     "id": 113,
@@ -1295,7 +1295,7 @@
     "avaliacao": 4.8,
     "selo": "Vegano",
     "descricao": "Grão-de-bico, tofu, quinoa e legumes.",
-    "imagem": ""https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/bowl-vegprot.jpg""
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/bowl-vegprot.jpg"
   },
   {
     "id": 119,
@@ -1339,7 +1339,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Crepioca de tapioca e ovo recheada com frango.",
-    "imagem": ""https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/crepioca-prot.jpg""
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/crepioca-prot.jpg"
   },
   {
     "id": 123,
@@ -1350,7 +1350,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Frutas frescas com whey protein e canela.",
-    "imagem": ""https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mixfru-whey.jpg""
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mixfru-whey.jpg"
   },
   {
     "id": 124,
