@@ -426,7 +426,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Peito de peru grelhado com purê de mandioquinha.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/peru-grelhado.jpg"
   },
   {
     "id": 40,
@@ -822,7 +822,7 @@
     "avaliacao": 4.8,
     "selo": "Vegano",
     "descricao": "Mousse de maracujá com sementes de chia.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mousse-maracechia.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mouse-maracuja.jpg"
   },
   {
     "id": 76,
