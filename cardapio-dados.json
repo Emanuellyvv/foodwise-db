@@ -349,7 +349,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Frango, pimentões, cebola e molho de soja com arroz integral.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/xadrez-fit.jpg"
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Frango ao curry leve com legumes e arroz integral.",
-    "imagem": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/frango-curry-fit.jpg"
   },
   {
     "id": 37,
@@ -415,7 +415,7 @@
     "avaliacao": 4.8,
     "selo": "Vegetariano",
     "descricao": "Risoto cremoso de cogumelos com arroz integral.",
-    "imagem": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/risoto-cogu-fit.jpg"
   },
   {
     "id": 39,
@@ -459,7 +459,7 @@
     "avaliacao": 4.5,
     "selo": "Vegano",
     "descricao": "Legumes salteados no wok com tofu e molho teriyaki.",
-    "imagem": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?q=80&w=600&auto=format&fit=crop"
+    "imagem":"https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/legumes-tofu.jpg"
   },
   {
     "id": 43,
@@ -624,7 +624,7 @@
     "avaliacao": 4.5,
     "selo": "Sem açúcar",
     "descricao": "Brigadeiro proteico de coco sem açúcar refinado.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/a.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/brigadeiro-coco-fit.jpg"
   },
   {
     "id": 58,
@@ -690,7 +690,7 @@
     "avaliacao": 4.7,
     "selo": "Sem açúcar",
     "descricao": "Barra de cereal com mel, aveia e frutas secas.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/barra-cereal.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/barra-cereal-caseira.jpg"
   },
   {
     "id": 64,
@@ -701,7 +701,7 @@
     "avaliacao": 4.8,
     "selo": "Vegano",
     "descricao": "Sorvete cremoso feito apenas com banana congelada.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/sorvete-banana.jpg"
   },
   {
     "id": 65,
@@ -712,7 +712,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Iogurte natural com geleia caseira de frutas vermelhas.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/geleia-frtverm-iogurte.jpg"
   },
   {
     "id": 66,
@@ -745,7 +745,7 @@
     "avaliacao": 4.4,
     "selo": "Vegano",
     "descricao": "Mousse leve de manga natural sem adição de açúcar.",
-    "imagem": "https://images.unsplash.com/photo-1541599468348-e96984315921?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mousse-manga.jpg"
   },
   {
     "id": 69,
@@ -833,7 +833,7 @@
     "avaliacao": 4.6,
     "selo": "Detox",
     "descricao": "Couve, maçã verde, limão e gengibre, sem adição de açúcar.",
-    "imagem": "https://images.unsplash.com/photo-1613478223719-2ab802602423?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/suco-verdedetox.jpg"
   },
   {
     "id": 77,
@@ -844,7 +844,7 @@
     "avaliacao": 4.9,
     "selo": "Natural",
     "descricao": "100% natural, gelada e sem adição de conservantes.",
-    "imagem": "https://images.unsplash.com/photo-1520950237264-1e6c37f0efce?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/agua-coco.jpg"
   },
   {
     "id": 78,
@@ -855,7 +855,7 @@
     "avaliacao": 4.7,
     "selo": "Natural",
     "descricao": "Laranja espremida na hora, sem adição de açúcar.",
-    "imagem": "https://images.unsplash.com/photo-1613478223719-2ab802602423?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/suco-laranja.jpg"
   },
   {
     "id": 79,
@@ -866,7 +866,7 @@
     "avaliacao": 4.6,
     "selo": "Refrescante",
     "descricao": "Limonada cremosa com leite condensado light.",
-    "imagem": "https://images.unsplash.com/photo-1520950237264-1e6c37f0efce?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/limonada-suica.jpg"
   },
   {
     "id": 80,
@@ -877,7 +877,7 @@
     "avaliacao": 4.5,
     "selo": "Detox",
     "descricao": "Abacaxi natural batido com folhas de hortelã.",
-    "imagem": "https://images.unsplash.com/photo-1613478223719-2ab802602423?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/suco-abacaxihort.jpg"
   },
   {
     "id": 81,
@@ -888,7 +888,7 @@
     "avaliacao": 4.7,
     "selo": "Alta proteína",
     "descricao": "Banana, leite desnatado e aveia em flocos.",
-    "imagem": "https://images.unsplash.com/photo-1520950237264-1e6c37f0efce?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/vit-banana-aveia.jpg"
   },
   {
     "id": 82,
@@ -899,7 +899,7 @@
     "avaliacao": 4.6,
     "selo": "Refrescante",
     "descricao": "Melancia natural gelada, sem adição de açúcar.",
-    "imagem": "https://images.unsplash.com/photo-1613478223719-2ab802602423?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/suco-melancia.jpg"
   },
   {
     "id": 83,
@@ -910,7 +910,7 @@
     "avaliacao": 4.8,
     "selo": "Natural",
     "descricao": "Chá verde natural servido gelado com limão.",
-    "imagem": "https://images.unsplash.com/photo-1520950237264-1e6c37f0efce?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/cha-verde.jpg"
   },
   {
     "id": 84,
@@ -921,7 +921,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Morango, iogurte natural e mel.",
-    "imagem": "https://images.unsplash.com/photo-1613478223719-2ab802602423?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/smothie-morango.jpg"
   },
   {
     "id": 85,
@@ -1361,7 +1361,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Ovos cozidos, abacate e torradas integrais.",
-    "imagem": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/ovoeabacate.jpg"
   },
   {
     "id": 125,
