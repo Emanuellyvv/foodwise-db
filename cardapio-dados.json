@@ -1130,7 +1130,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Ovos, espinafre, tomate e queijo cottage.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/Omelete-Espinafre-Queijo.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/Omelete-Espinafre-Queijo.png"
   },
   {
     "id": 104,
@@ -1141,7 +1141,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Panqueca de aveia, banana e whey protein.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/panqueca-banana.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/Panqueca-banana.jpg"
   },
   {
     "id": 105,
@@ -1152,7 +1152,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Tapioca recheada com frango desfiado e queijo light.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/tapioca-frango.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/tapioca-frango.png"
   },
   {
     "id": 106,
@@ -1163,7 +1163,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Aveia sem cozimento com iogurte, chia e frutas.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/overnightsoats.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/overnightsoats.png"
   },
   {
     "id": 107,
@@ -1174,7 +1174,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Castanhas, amêndoas e nozes selecionadas.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mic-castanhas.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mic-castanhas.png"
   },
   {
     "id": 108,
