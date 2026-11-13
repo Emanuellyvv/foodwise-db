@@ -932,7 +932,7 @@
     "avaliacao": 4.6,
     "selo": "Natural",
     "descricao": "Água aromatizada naturalmente com frutas vermelhas.",
-    "imagem": "https://images.unsplash.com/photo-1520950237264-1e6c37f0efce?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/agua-sab-frtverm.jpg"
   },
   {
     "id": 86,
@@ -943,7 +943,7 @@
     "avaliacao": 4.5,
     "selo": "Detox",
     "descricao": "Couve, gengibre, limão e maçã verde.",
-    "imagem": "https://images.unsplash.com/photo-1613478223719-2ab802602423?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/detox-couve-gengibre.jpg"
   },
   {
     "id": 87,
@@ -954,7 +954,7 @@
     "avaliacao": 5.0,
     "selo": "Natural",
     "descricao": "Bebida fermentada probiótica, sabor natural.",
-    "imagem": "https://images.unsplash.com/photo-1520950237264-1e6c37f0efce?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/kombucha.jpg"
   },
   {
     "id": 88,
@@ -965,7 +965,7 @@
     "avaliacao": 4.7,
     "selo": "Alta proteína",
     "descricao": "Manga natural batida com iogurte e mel.",
-    "imagem": "https://images.unsplash.com/photo-1613478223719-2ab802602423?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/smothie-manga.jpg"
   },
   {
     "id": 89,
@@ -976,7 +976,7 @@
     "avaliacao": 4.5,
     "selo": "Natural",
     "descricao": "Café coado gelado com leite vegetal e canela.",
-    "imagem": "https://images.unsplash.com/photo-1520950237264-1e6c37f0efce?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/cafe-geladofit.jpg"
   },
   {
     "id": 90,
@@ -987,7 +987,7 @@
     "avaliacao": 4.4,
     "selo": "Natural",
     "descricao": "Suco de uva 100% natural, sem adição de açúcar.",
-    "imagem": "https://images.unsplash.com/photo-1613478223719-2ab802602423?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/sucouva.jpg"
   },
   {
     "id": 91,
@@ -998,7 +998,7 @@
     "avaliacao": 4.5,
     "selo": "Natural",
     "descricao": "Chá de camomila natural servido gelado.",
-    "imagem": "https://images.unsplash.com/photo-1520950237264-1e6c37f0efce?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/cha-camomila-gelado.jpg"
   },
   {
     "id": 92,
@@ -1009,7 +1009,7 @@
     "avaliacao": 4.8,
     "selo": "Detox",
     "descricao": "Couve, abacaxi, gengibre e limão.",
-    "imagem": "https://images.unsplash.com/photo-1613478223719-2ab802602423?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/sucoverde-abacaxi.jpg"
   },
   {
     "id": 93,
@@ -1020,7 +1020,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Abacate, leite desnatado e um toque de mel.",
-    "imagem": "https://images.unsplash.com/photo-1520950237264-1e6c37f0efce?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/vitamina-abacate.jpg"
   },
   {
     "id": 94,
@@ -1031,7 +1031,7 @@
     "avaliacao": 4.7,
     "selo": "Natural",
     "descricao": "Maçã espremida na hora, sem conservantes.",
-    "imagem": "https://images.unsplash.com/photo-1613478223719-2ab802602423?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/sucomaca.jpg"
   },
   {
     "id": 95,
@@ -1042,7 +1042,7 @@
     "avaliacao": 4.4,
     "selo": "Natural",
     "descricao": "Água de coco natural com um toque de limão.",
-    "imagem": "https://images.unsplash.com/photo-1520950237264-1e6c37f0efce?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/aguacoco-limao.jpg"
   },
   {
     "id": 96,
@@ -1053,7 +1053,7 @@
     "avaliacao": 4.6,
     "selo": "Detox",
     "descricao": "Espinafre, manga, banana e água de coco.",
-    "imagem": "https://images.unsplash.com/photo-1613478223719-2ab802602423?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/smothie-verdetropical.jpg"
   },
   {
     "id": 97,
@@ -1064,7 +1064,7 @@
     "avaliacao": 5.0,
     "selo": "Natural",
     "descricao": "Chá mate natural gelado, sem açúcar.",
-    "imagem": "https://images.unsplash.com/photo-1520950237264-1e6c37f0efce?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/chamatte-gelado.jpg"
   },
   {
     "id": 98,
@@ -1570,7 +1570,7 @@
     "avaliacao": 4.5,
     "selo": "Acompanhamento",
     "descricao": "Nachos crocantes com queijo derretido e guacamole.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/nachos-queijo.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/nacho-queijo.jpg"
   },
   {
     "id": 144,
