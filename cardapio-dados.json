@@ -1284,7 +1284,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Panqueca de claras de ovo com frutas frescas.",
-    "imagem":"https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/panq-frutas.jpg"
+    "imagem":"https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/panqclaras-frutas.jpg"
   },
   {
     "id": 118,
@@ -1306,7 +1306,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Claras de ovo com abobrinha, tomate e cebola.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/omelete-leg.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/omeleteclaras-leg.jpg"
   },
   {
     "id": 120,
@@ -1350,7 +1350,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Frutas frescas com whey protein e canela.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mixfru-whey.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/bowl-frutas-whey.jpg"
   },
   {
     "id": 124,
