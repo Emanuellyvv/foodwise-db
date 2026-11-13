@@ -1174,7 +1174,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Castanhas, amêndoas e nozes selecionadas.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mix-castanhas.png"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mixcastanhas.png"
   },
   {
     "id": 108,
@@ -1207,7 +1207,7 @@
     "avaliacao": 5.0,
     "selo": "Alta proteína",
     "descricao": "Ovos mexidos com aveia e queijo cottage.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/ovosmex-aveia.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/ovosmex-aveias.jpg"
   },
   {
     "id": 111,
@@ -1273,7 +1273,7 @@
     "avaliacao": 4.9,
     "selo": "Alta proteína",
     "descricao": "Peito de frango, quinoa, brócolis e cenoura.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/frangogre-quinoa-leg.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/frangogre-quinoaeleg.jpg"
   },
   {
     "id": 117,
@@ -1295,7 +1295,7 @@
     "avaliacao": 4.8,
     "selo": "Vegano",
     "descricao": "Grão-de-bico, tofu, quinoa e legumes.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/bowl-vegprot.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/bowlveg-prot.jpg"
   },
   {
     "id": 119,
