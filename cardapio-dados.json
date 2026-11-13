@@ -1141,7 +1141,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Panqueca de aveia, banana e whey protein.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/Panqueca-banana.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/panq-prot-banana.jpg"
   },
   {
     "id": 105,
@@ -1174,7 +1174,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Castanhas, amêndoas e nozes selecionadas.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mixcastanhas.png"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mixcastanhas.jpg"
   },
   {
     "id": 108,
