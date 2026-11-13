@@ -1174,7 +1174,7 @@
     "avaliacao": 4.6,
     "selo": "Alta proteína",
     "descricao": "Castanhas, amêndoas e nozes selecionadas.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mic-castanhas.png"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/mix-castanhas.png"
   },
   {
     "id": 108,
@@ -1240,7 +1240,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Whey protein batido com banana e leite desnatado.",
-    "imagem": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?q=80&w=600&auto=format&fit=crop"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/shakeprot-banana.jpg"
   },
   {
     "id": 114,
@@ -1361,7 +1361,7 @@
     "avaliacao": 4.8,
     "selo": "Alta proteína",
     "descricao": "Ovos cozidos, abacate e torradas integrais.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/ovoeabacate.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/bowl-ovo-abacate.jpg"
   },
   {
     "id": 125,
@@ -1372,7 +1372,7 @@
     "avaliacao": 4.5,
     "selo": "Alta proteína",
     "descricao": "Espetinho de frango grelhado com legumes.",
-    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/espeto-frango.jpg"
+    "imagem": "https://raw.githubusercontent.com/Emanuellyvv/foodwise-db/main/image/espeto-frangofit.jpg"
   },
   {
     "id": 126,
